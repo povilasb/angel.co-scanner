@@ -1,0 +1,3 @@
+Scrapy==1.0.5
+fake-useragent==0.0.8
+scrapy-html-storage==0.1.0
